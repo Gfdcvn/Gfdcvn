@@ -11,3 +11,5 @@ About me
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gfdcvn" alt="Kimiwws1" /></p>   
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gfdcvn&show_icons=true&locale=en&layout=comfortable" alt="Kimiwws1" /></p>
+
+<a href="https://github.com/atosinu/atosinu"><img alt="atosinu's activity graph" src="https://activity-graph.herokuapp.com/graph?Gfdcvn=atosinu&bg_color=0e2239&color=58a6ff&line=114a88&point=58a6ff&hide_border=true" /></a>
