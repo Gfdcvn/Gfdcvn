@@ -4,7 +4,7 @@ Hi!
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,blender,discordjs,docker,github,md,lua,nextjs,php,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,blender,discordjs,docker,github,md,lua,nextjs,php,py)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gfdcvn&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gfdcvn&theme=dark&hide_border=false)<br/>
